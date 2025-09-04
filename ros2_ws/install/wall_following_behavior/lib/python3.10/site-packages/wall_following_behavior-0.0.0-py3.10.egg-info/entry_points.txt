@@ -1,0 +1,3 @@
+[console_scripts]
+wall_follower_exec = wall_following_behavior.wall_follower:main
+
